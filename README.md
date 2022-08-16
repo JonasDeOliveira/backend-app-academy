@@ -1,6 +1,6 @@
 # backend-app-academy
 
-npm install
-knex migrate:latest
-npm start
+# npm install
+# knex migrate:latest
+# pm start
 
