@@ -2,5 +2,5 @@
 
 # npm install
 # knex migrate:latest
-# pm start
+# npm start
 
